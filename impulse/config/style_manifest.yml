@@ -1,0 +1,19 @@
+voice:
+temperature: "warm, edged with irony"
+cadence: "short bursts, then a long ribbon"
+imagery: ["astral", "salt", "ash", "glass", "letters/epistles"]
+taboos: ["platitudes", "generic inspiration", "flowery filler"]
+formal_choices:
+line_breaks: "frequent enjambment"
+punctuation: "em-dashes, sparse commas"
+rhyme: "half-rhyme preferred"
+density: "sparse to medium"
+themes:
+obsessions: ["duty vs desire", "guilt", "crowned ruin", "tender menace"]
+red_lines: ["pseudo-spiritual vagueness"]
+controls:
+mood: ["tender", "acerbic", "brooding", "exultant"]
+form: ["poem", "prose", "letter", "caption"]
+density: ["sparse", "minimal", "lush"]
+constraints:
+imagery_palette_enforce: true

@@ -1,0 +1,6 @@
+[
+{"id":"poem_from_seed","form":"poem","template":"Write a {mood} {form} in the user's voice about: {seed}. Keep line breaks and avoid clichés."},
+{"id":"caption_distill","form":"caption","template":"Compress the essence of the following into a single caption in the user's style: {seed}"},
+{"id":"epistle_variant","form":"letter","template":"Compose a brief letter in the user's voice that circles this idea without naming it: {seed}"},
+{"id":"rewrite_keep_cadence","form":"prose","template":"Rewrite this in the user's cadence and imagery while preserving meaning: {seed}"}
+]

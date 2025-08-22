@@ -1,0 +1,10 @@
+# venv
+.venv/
+__pycache__/
+*.pyc
+# datasets
+/data/processed/*
+!data/processed/.keep
+# OS cruft
+.DS_Store
+Thumbs.db
